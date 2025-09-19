@@ -20,6 +20,6 @@ setup(    name="ML_Predict_and_Reduce_Energy_Costs",
     author="Dejene",    
     author_email="hailudjj@gmail.com",
     packages=find_packages(),
-    install_requires= get_requirements("requirements.txt")    
+    install_requires= get_requirements("requirements.txt")     
  )
 
