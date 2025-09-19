@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: ML_Predict_and_Reduce_Energy_Costs
+Version: 0.0.1
+Author: Dejene
+Author-email: hailudjj@gmail.com
+Requires-Dist: pandas
+Requires-Dist: datetime
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
