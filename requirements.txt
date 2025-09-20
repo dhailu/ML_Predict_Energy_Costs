@@ -1,4 +1,7 @@
 pandas
 datetime
 numpy
--e .
+seaborn
+scikit-learn
+matplotlib
+#-e .
