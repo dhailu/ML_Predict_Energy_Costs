@@ -1,7 +1,7 @@
 pandas
 datetime
 numpy
-seaborn
+seaborn 
 scikit-learn
 matplotlib
 #-e .
